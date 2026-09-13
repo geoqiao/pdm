@@ -1,3 +1,6 @@
+> [!NOTE]
+> This personal contribution fork is archived and retained for reference. My documentation change was merged in [pdm-project/pdm#3208](https://github.com/pdm-project/pdm/pull/3208). Follow [pdm-project/pdm](https://github.com/pdm-project/pdm) for maintained code.
+
 <div align="center">
 
 # PDM
